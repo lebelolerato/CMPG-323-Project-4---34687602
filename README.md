@@ -25,9 +25,9 @@ So firstly I am using the UiPath community app and instead of using the modern d
       1. Click Zones or Categories or Devices on the left side
       2. Click the + icon next to the name on the Table on your right corner
       3. Type into the specific fields reading from the specific DataTables
-      4. Click "Add" button
+      4. Click "create" button
       
-      For inserting the Device I added an If statement for when the IsActive == True then the UiPath automation should automatically check the active checkbox and if         not then click the add button
+      For inserting the Device I added an If statement for when the IsActive == True then the UiPath automation should automatically check the active checkbox and if         not then click the "create" button
       
  ### Steps for Delete
  
